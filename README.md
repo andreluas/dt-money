@@ -41,7 +41,7 @@ This project was made using the follow technologies:
 
 ```bash
 # Clone Repository
-$ git clone https://github.com/andreluas/dt.money.git
+$ git clone https://github.com/andreluas/dt-money.git
 ```
 
 ```bash
@@ -55,7 +55,7 @@ Go to http://localhost:5173/ to see the result.
 
 # :bug: Issues
 
-Create a <a href="https://github.com/andreluas/dt.money/issues">new issue report</a>, it will be an honor to be able to help you solve and further improve our application.
+Create a <a href="https://github.com/andreluas/dt-money/issues">new issue report</a>, it will be an honor to be able to help you solve and further improve our application.
 
 # :sparkles: Contributing
 
